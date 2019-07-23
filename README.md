@@ -2,7 +2,7 @@
 
 ## Basic
 
-- defer关键字
+- [defer关键字](https://tiancaiamao.gitbooks.io/go-internals/content/zh/03.4.html)
 - interface的使用以及其底层实现
 - function vs methods
 - append
@@ -42,3 +42,7 @@
     - 服务方，客户端，服务对象，编解码 这几个部分的作用 (https://www.zhihu.com/question/25536695)
     - net/rpc 
     - jsonrpc
+
+## golang语法常见的坑
+
+- [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
