@@ -6,6 +6,9 @@
 - interface的使用以及其底层实现
 - function vs methods
 - append
+- 主要就是 slice的用法(创建方法)， slice和数组的联系和区别，slice底层的实现方式，还有一个空slice和nil的区别
+- map的话你主要理解这几点就行了：1. map本省应该就是一个指针了 2. get方法是如何工作的，也就是如何根据key来找到value的，说出大致的过程就行 3. 怎么把key value对放到一个map里的   4. map不是线程安全的，那么线程安全的map应该怎么实现，大致原理是什么样的。
+
 
 
 ## Data structure
